@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashis/PycharmProjects/ML-flow/mlruns/1/94c2dcdb6a464c7888acf327e4991a31/artifacts
+end_time: 1649865290050
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 94c2dcdb6a464c7888acf327e4991a31
+run_uuid: 94c2dcdb6a464c7888acf327e4991a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649865290014
+status: 4
+tags: []
+user_id: ashis
